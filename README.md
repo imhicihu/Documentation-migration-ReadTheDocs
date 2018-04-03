@@ -7,7 +7,6 @@
     - A way to automatize our produced inner tutorials and documentation alongside  the time.  Up to now is a way of second branch (read solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
 
 * Version 1.0
-    -
 
 ### How do I get set up? ###
 
@@ -39,4 +38,4 @@
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact our [Trello board](https://bitbucket.org/imhicihu/patrimonio-database/addon/trello/trello-board)
+     - Contact our [Trello board](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/addon/trello/trello-board)
