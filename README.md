@@ -6,6 +6,8 @@
 * Quick summary
     - A way to automatize our produced inner tutorials and documentation alongside  the time.  Up to now is a way of second branch (read solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
     - [ReadtheDocs](https://readthedocs.org/) is a free and [open source](https://docs.readthedocs.io/en/latest/open-source-philosophy.html) hosting solution for online documentation.
+    
+    ![BSIUd.png](https://bitbucket.org/repo/yLrxrz/images/526032240-BSIUd.png)
 
 * Version 1.0
 
