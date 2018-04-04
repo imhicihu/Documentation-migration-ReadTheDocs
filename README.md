@@ -41,4 +41,4 @@
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
 * Other community or team contact
-     - Contact our [Trello board](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/addon/trello/trello-board)
+     - Contact our [Board](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/addon/trello/trello-board)
