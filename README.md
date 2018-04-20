@@ -5,9 +5,8 @@
 
 * Quick summary
     - A way to automatize our produced inner tutorials and documentation alongside  the time.  Up to now is a way of second branch (read solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
-    - [ReadtheDocs](https://readthedocs.org/) is a free and [open source](https://docs.readthedocs.io/en/latest/open-source-philosophy.html) hosting solution for online documentation.
-    
-    ![BSIUd.png](https://bitbucket.org/repo/yLrxrz/images/526032240-BSIUd.png)
+    - [ReadtheDocs](https://readthedocs.org/) is a free and [open source](https://docs.readthedocs.io/en/latest/open-source-philosophy.html) hosting solution for online documentation.    
+![read the docs.png](https://bitbucket.org/repo/7EGyxon/images/2863984415-read%20the%20docs.png)
 
 * Version 1.0
 
@@ -16,6 +15,7 @@
 * Summary of set up
     - create an account in [ReadtheDocs](https://readthedocs.org/)
 	- create an account in [Bitbucket](https://bitbucket.org/)
+    - create an account in [GitHub](http://github.com/)
 * Configuration
     - Actually, in processing instance
 * Dependencies
