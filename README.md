@@ -4,7 +4,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-    - A way to automatize our produced inner tutorials and documentation alongside  the time.  Up to now is a way of second branch (read solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
+    - A way to automatize our produced inner tutorials and documentation alongside  the time.  Up to now is a way of second branch (_a.k.a_ solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
     - [ReadtheDocs](https://readthedocs.org/) is a free and [open source](https://docs.readthedocs.io/en/latest/open-source-philosophy.html) hosting solution for online documentation.    
 ![read the docs.png](https://bitbucket.org/repo/7EGyxon/images/2863984415-read%20the%20docs.png)
 
