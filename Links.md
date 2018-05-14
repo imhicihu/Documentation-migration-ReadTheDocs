@@ -1,0 +1,1 @@
+* check this comparison about wiki and one-page website: https://progur.com/2018/02/netlify-vs-github-pages-vs-firebase.html
