@@ -38,6 +38,10 @@
 * Other guidelines
     - There is no other guidelines
 
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/commits/) section for the current status
+
 ### Who do I talk to? ###
 
 * Repo owner or admin
