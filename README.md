@@ -52,3 +52,7 @@
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
+
+### License ###
+
+* The content of this project itself is licensed under the [MIT](https://opensource.org/licenses/MIT) license 
