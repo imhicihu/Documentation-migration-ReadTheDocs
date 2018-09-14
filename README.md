@@ -1,5 +1,7 @@
-# RATIONALE #
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+![internal-wip](https://img.shields.io/badge/Internal%20use%3A-stable-green.svg)
 
+# RATIONALE #
 
 ### What is this repository for? ###
 
