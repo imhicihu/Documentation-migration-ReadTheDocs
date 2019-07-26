@@ -1,1 +1,1 @@
-* ~~Migrate Del.icio.us gathered links to Evernote~~
+* ~~Migrate Del.icio.us gathered links to [Evernote](https://bitbucket.org/imhicihu/migration-bookmarks-to-evernote/src/)~~
