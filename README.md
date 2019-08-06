@@ -36,6 +36,7 @@
 
 * Some repositories linked with this project:
      - [Automatize digital actions](https://bitbucket.org/imhicihu/automatize-digital-actions/src/)
+     - [One Page website](https://bitbucket.org/imhicihu/one-page-website/src/master/)
      
 ### Contribution guidelines ###
 
