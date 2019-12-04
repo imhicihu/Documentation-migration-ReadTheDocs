@@ -58,6 +58,10 @@
 * Other community or team contact
      - Contact our [Board](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/addon/trello/trello-board)
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.
