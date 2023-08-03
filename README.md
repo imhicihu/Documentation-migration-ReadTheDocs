@@ -1,6 +1,6 @@
-![stability-wip](https://bitbucket.org/repo/ekyaeEE/images/477405737-stability_work_in_progress.png)
-![internal-wip](https://bitbucket.org/repo/ekyaeEE/images/3847436881-internal_use_stable.png)
-![issues-open](https://bitbucket.org/repo/ekyaeEE/images/2944199103-issues_open.png)
+![stability-wip](images/3278295154-status_archived.png)
+![internal-wip](images/3847436881-internal_use_stable.png)
+![issues-open](images/2944199103-issues_open.png)
 
 # RATIONALE #
 
@@ -9,9 +9,7 @@
 * Quick summary
     - A way to automatize our produced inner tutorials and documentation alongside the time. Up to now is a way of second branch (_a.k.a_ solution)  to get automated updates. _One caveat_: this repo must fix the `proxy server barrier` that we actually face.
     - [ReadtheDocs](https://readthedocs.org/) is a free and [open source](https://docs.readthedocs.io/en/latest/open-source-philosophy.html) hosting solution for online documentation.    
-![read the docs.png](https://bitbucket.org/repo/7EGyxon/images/2863984415-read%20the%20docs.png)
-
-* Version 1.0
+![read the docs.png](images/2863984415-read%20the%20docs.png)
 
 ### How do I get set up? ###
 
@@ -37,15 +35,7 @@
 * Some repositories linked with this project:
      - [Automatize digital actions](https://bitbucket.org/imhicihu/automatize-digital-actions/src/)
      - [One Page website](https://bitbucket.org/imhicihu/one-page-website/src/master/)
-     
-### Contribution guidelines ###
-
-* Writing tests
-    - It won't be possible. If there is some typos or found some other kind of problem, just open a pull request or send an email to `imhicihu` at `gmail` dot `com` 
-* Code review
-    - There is no code to share, hence nothing to review or request
-* Other guidelines
-    - There is no other guidelines
+ 
 
 ### Changelog ###
 
@@ -55,12 +45,10 @@
 
 * Repo owner or admin
      - Contact: `imhicihu` at `gmail` dot `com`
-* Other community or team contact
-     - Contact our [Board](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/addon/trello/trello-board)
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/documentation-migration-to-read-the-docs-experimental/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](code_of_conduct.md)
 
 ### Legal ###
 
